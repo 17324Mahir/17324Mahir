@@ -1,6 +1,6 @@
 <!-- ───────────────────────────── HEADER ───────────────────────────── -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&center=true&vCenter=true&width=920&lines=Hi%2C+I'm+Mahir+%F0%9F%91%8B;CSE+Student+at+AIUB;Machine+Learning+Researcher" alt="Typing animation header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&center=true&vCenter=true&width=920&lines=Hi%2C+I'm+Mahir+%F0%9F%91%8B;CSE+Student+at+AIUB;Machine+Learning+Researcher;Passionate+About+AI+and+Clean+Code" alt="Typing animation header" />
 </p>
 
 <!-- Static fallback banner (shows even if typing SVG hiccups) -->
@@ -22,14 +22,16 @@
 ---
 
 ## 👨‍🎓 About Me
-- 🎓 **CSE student** at **American International University–Bangladesh (AIUB)**
-- 🔬 Research focus: **integrating Machine Learning with AI**
-- 🧰 I use `Python`, `C++`, `Java`, and `C#`
+- 🎓 **CSE student** at **American International University–Bangladesh (AIUB)**  
+- 🔬 Doing **research integrating Machine Learning with Artificial Intelligence**  
+- 💡 Enthusiastic about problem-solving, software design, and clean code  
+- 🧰 Skilled in `Python`, `C++`, `Java`, and `C#`  
+- 🚀 Constantly learning and experimenting with new technologies  
 - 📫 Reach me: **mahirtajwar154@gmail.com**
 
 ---
 
-## 🧠 Interests
+## 🧠 Research & Interests
 `Artificial Intelligence` · `Machine Learning` · `Computer Vision`  
 `Algorithms` · `Data Structures` · `Software Engineering`
 
@@ -63,27 +65,25 @@
   />
 </p>
 
-<!-- Streak: official host; if it ever fails, swap to the vercel mirror below -->
+<!-- Streak: mirror endpoint with cache-buster -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=17324Mahir&theme=transparent"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=17324Mahir&theme=transparent&date_format=j%20M%5B%20Y%5D&v=1"
     height="150"
     alt="GitHub streak"
   />
-  <!-- Mirror (uncomment if needed):
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=17324Mahir&theme=transparent" height="150" alt="GitHub streak (mirror)" />
-  -->
 </p>
 
 ---
 
 ## 🔬 Current Focus
-- AI–ML research, reproducible experiments, and clean codebases  
-- Competitive programming: **Codeforces → [Zero_Tw2](https://codeforces.com/profile/Zero_Tw2)**
+- 🧩 Researching **AI–ML integration** and intelligent systems  
+- 💻 Developing reproducible research code in **Python** and **C++**  
+- 🧮 Active on **Codeforces** → [Zero_Tw2](https://codeforces.com/profile/Zero_Tw2)
 
 ---
 
-<!-- Optional contribution snake (enable workflow first) -->
+<!-- Optional contribution snake (enable workflow later) -->
 <!--
 ![snake animation](https://raw.githubusercontent.com/17324Mahir/17324Mahir/output/snake.svg)
 -->
