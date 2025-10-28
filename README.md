@@ -5,7 +5,10 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=34&center=true&vCenter=true&width=720&height=70&duration=3500&pause=600&color=14b8a6&lines=Hi+There!+👋;I'm+Mahir;CSE+Student+at+AIUB;ML+%26+AI+Researcher" />
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0ea5e9,100:22c55e&text=Mahir%20%40%20AIUB&fontColor=ffffff&fontSize=36&fontAlignY=45" alt="Mahir @ AIUB banner" />
+</p>
+font=Righteous&size=34&center=true&vCenter=true&width=720&height=70&duration=3500&pause=600&color=14b8a6&lines=Hi+There!+👋;I'm+Mahir;CSE+Student+at+AIUB;ML+%26+AI+Researcher" />
 </h1>
 
 <h3 align="center">CSE @ AIUB • Researching Machine Learning & Artificial Intelligence • Clean-code enjoyer</h3>
