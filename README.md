@@ -1,27 +1,20 @@
 <!-- ───────────────────────────── HEADER ───────────────────────────── -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&center=true&vCenter=true&width=920&lines=Hi%2C+I'm+Mahir+👋;CSE+Student+at+AIUB;Machine+Learning+Researcher;Passionate+About+AI+and+Clean+Code"
-    alt="Typing animation header"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&center=true&vCenter=true&width=920&lines=Hi%2C+I'm+Mahir+%F0%9F%91%8B;CSE+Student+at+AIUB;Machine+Learning+Researcher" alt="Typing animation header" />
 </p>
 
-<!-- fallback banner (for better appearance if typing SVG fails) -->
+<!-- Static fallback banner (shows even if typing SVG hiccups) -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0ea5e9,100:22c55e&text=Mahir%20%40%20AIUB&fontColor=ffffff&fontSize=36&fontAlignY=45"
-    alt="Mahir @ AIUB banner"
-  />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0ea5e9,100:22c55e&text=Mahir%20%40%20AIUB&fontColor=ffffff&fontSize=36&fontAlignY=45" alt="Mahir @ AIUB banner" />
 </p>
 
-<!-- ───────────────────────────── CONTACT + VIEWS ───────────────────────────── -->
+<!-- ───────────────────────── CONTACT + VIEWS ───────────────────────── -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=17324Mahir&style=flat&label=Profile%20Views" alt="views" />
   <a href="mailto:mahirtajwar154@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0ea5e9" alt="email" /></a>
   <a href="https://codeforces.com/profile/Zero_Tw2"><img src="https://img.shields.io/badge/Codeforces-Zero__Tw2-22c55e" alt="Codeforces" /></a>
 </p>
 
-<!-- divider -->
 <p align="center">
   <img src="https://img.shields.io/badge/-%20-%23ffffff00?style=for-the-badge&logoWidth=0&labelColor=0ea5e9" width="0" height="6">
 </p>
@@ -29,16 +22,14 @@
 ---
 
 ## 👨‍🎓 About Me
-- 🎓 **CSE student** at **American International University–Bangladesh (AIUB)**  
-- 🔬 Currently doing **research integrating Machine Learning with Artificial Intelligence**  
-- 💡 Enthusiastic about problem-solving, software design, and emerging tech  
-- 🧰 Skilled in `Python`, `C++`, `Java`, and `C#`  
-- 🚀 Constantly learning and experimenting with modern development tools  
-- 📫 Reach me anytime at **mahirtajwar154@gmail.com**
+- 🎓 **CSE student** at **American International University–Bangladesh (AIUB)**
+- 🔬 Research focus: **integrating Machine Learning with AI**
+- 🧰 I use `Python`, `C++`, `Java`, and `C#`
+- 📫 Reach me: **mahirtajwar154@gmail.com**
 
 ---
 
-## 🧠 Research & Interests
+## 🧠 Interests
 `Artificial Intelligence` · `Machine Learning` · `Computer Vision`  
 `Algorithms` · `Data Structures` · `Software Engineering`
 
@@ -58,7 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=17324Mahir&show_icons=true&hide_title=true&rank_icon=percentile&theme=transparent"
@@ -72,24 +63,27 @@
   />
 </p>
 
+<!-- Streak: official host; if it ever fails, swap to the vercel mirror below -->
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=17324Mahir&hide_longest_streak=true&theme=transparent"
+    src="https://streak-stats.demolab.com/?user=17324Mahir&theme=transparent"
     height="150"
-    alt="streak"
+    alt="GitHub streak"
   />
+  <!-- Mirror (uncomment if needed):
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=17324Mahir&theme=transparent" height="150" alt="GitHub streak (mirror)" />
+  -->
 </p>
 
 ---
 
 ## 🔬 Current Focus
-- 🧩 Researching advanced **AI–ML integration techniques**  
-- 💻 Building small reproducible projects in **Python** and **C++**  
-- 🧮 Practicing problem-solving on **Codeforces** → [Zero_Tw2](https://codeforces.com/profile/Zero_Tw2)
+- AI–ML research, reproducible experiments, and clean codebases  
+- Competitive programming: **Codeforces → [Zero_Tw2](https://codeforces.com/profile/Zero_Tw2)**
 
 ---
 
-<!-- optional snake animation (enable workflow later) -->
+<!-- Optional contribution snake (enable workflow first) -->
 <!--
 ![snake animation](https://raw.githubusercontent.com/17324Mahir/17324Mahir/output/snake.svg)
 -->
@@ -97,5 +91,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0ea5e9,100:22c55e" />
 </p>
-
-
