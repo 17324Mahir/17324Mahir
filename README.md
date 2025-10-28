@@ -1,7 +1,7 @@
-<!-- ====== HEADER / HERO ====== -->
+====== HEADER / HERO ====== -->
 <div align="center">
-  <!-- Optional snake (enable workflow first; see instructions at bottom) -->
-  <!--
+  Optional snake (enable workflow first; see instructions at bottom) -->
+  
   <img alt="snake" src="https://raw.githubusercontent.com/17324Mahir/17324Mahir/output/github-contribution-grid-snake-dark.svg" />
   -->
 </div>
