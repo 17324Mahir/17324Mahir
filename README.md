@@ -1,14 +1,11 @@
+<!-- ====== HEADER / HERO ====== -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&center=true&vCenter=true&width=920&lines=Hi%2C+I+am+Mahir+%F0%9F%91%8B;CSE+Student+at+AIUB;Machine+Learning+Researcher;Passionate+About+AI+and+Clean+Code" alt="Typing animation header" />
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0ea5e9,100:22c55e&text=Mahir%20%40%20AIUB&fontColor=ffffff&fontSize=36&fontAlignY=45" alt="Mahir @ AIUB banner" />
 </p>
-</div>
-
-<h1 align="center">
-font=Righteous&size=34&center=true&vCenter=true&width=720&height=70&duration=3500&pause=600&color=14b8a6&lines=Hi+There!+👋;I'm+Mahir;CSE+Student+at+AIUB;ML+%26+AI+Researcher" />
-</h1>
 
 <h3 align="center">CSE @ AIUB • Researching Machine Learning & Artificial Intelligence • Clean-code enjoyer</h3>
 
@@ -24,7 +21,6 @@ font=Righteous&size=34&center=true&vCenter=true&width=720&height=70&duration=350
 
 <br/>
 
-<!-- ====== ABOUT ====== -->
 ## About Me
 - 🎓 **CSE student** at **American International University–Bangladesh (AIUB)**
 - 🔬 **Currently researching** the integration of **Machine Learning** & **AI**
@@ -33,13 +29,11 @@ font=Righteous&size=34&center=true&vCenter=true&width=720&height=70&duration=350
 
 <br/>
 
-<!-- ====== LANGUAGES ====== -->
 ## Languages
 | Python | C++ | Java | C# |
 |:-----:|:---:|:----:|:--:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55" /> |
 
-<!-- ====== TOOLS (light) ====== -->
 ## Tools
 | Git | Linux | VS Code |
 |:--:|:-----:|:------:|
@@ -47,7 +41,6 @@ font=Righteous&size=34&center=true&vCenter=true&width=720&height=70&duration=350
 
 <br/>
 
-<!-- ====== STATS ====== -->
 <p align="center">
   <img width="600" height="200" alt="stats"
        src="https://github-readme-stats.vercel.app/api?username=17324Mahir&show_icons=true&title_color=14b8a6&icon_color=0ea5e9&text_color=ffffff&bg_color=0a0a0a&hide_border=true" />
@@ -55,14 +48,11 @@ font=Righteous&size=34&center=true&vCenter=true&width=720&height=70&duration=350
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=17324Mahir&layout=compact&title_color=14b8a6&text_color=ffffff&bg_color=0a0a0a&icon_color=0ea5e9&hide_border=true" />
 </p>
 
-<!-- Optional streak (mirror host for reliability) -->
 <p align="center">
   <img height="200" alt="streak"
        src="https://github-readme-streak-stats-eight.vercel.app/?user=17324Mahir&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
-<!-- ====== CURRENT FOCUS ====== -->
 ## Current Focus
 - 🧩 **AI + ML** experiments and small, reproducible codebases  
 - 🧮 Competitive programming on **Codeforces** → [Zero_Tw2](https://codeforces.com/profile/Zero_Tw2)
-
