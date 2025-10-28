@@ -1,9 +1,7 @@
-====== HEADER / HERO ====== -->
-<div align="center">
-  Optional snake (enable workflow first; see instructions at bottom) -->
-  
-  <img alt="snake" src="https://raw.githubusercontent.com/17324Mahir/17324Mahir/output/github-contribution-grid-snake-dark.svg" />
-  -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&center=true&vCenter=true&width=920&lines=Hi%2C+I+am+Mahir+%F0%9F%91%8B;CSE+Student+at+AIUB;Machine+Learning+Researcher;Passionate+About+AI+and+Clean+Code" alt="Typing animation header" />
+</p>
+
 </div>
 
 <h1 align="center">
