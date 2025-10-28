@@ -1,6 +1,6 @@
 <!-- ====== HEADER / HERO ====== -->
 <div align="center">
-  <!-- Optional snake (enable workflow first; see note at bottom) -->
+  <!-- Optional snake (enable workflow first; see instructions at bottom) -->
   <!--
   <img alt="snake" src="https://raw.githubusercontent.com/17324Mahir/17324Mahir/output/github-contribution-grid-snake-dark.svg" />
   -->
@@ -12,9 +12,6 @@
 
 <h3 align="center">CSE @ AIUB • Researching Machine Learning & Artificial Intelligence • Clean-code enjoyer</h3>
 
-<br/>
-
-<!-- ====== CONTACT + VIEWS ====== -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=17324Mahir&style=flat&label=Profile+Views" alt="views" />
   <a href="mailto:mahirtajwar154@gmail.com">
@@ -24,6 +21,8 @@
     <img src="https://img.shields.io/badge/Codeforces-Zero__Tw2-0ea5e9" alt="Codeforces" />
   </a>
 </p>
+
+<br/>
 
 <!-- ====== ABOUT ====== -->
 ## About Me
@@ -40,8 +39,8 @@
 |:-----:|:---:|:----:|:--:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55" /> |
 
-<!-- ====== TOOLS (optional, light) ====== -->
-## Tools (light)
+<!-- ====== TOOLS (light) ====== -->
+## Tools
 | Git | Linux | VS Code |
 |:--:|:-----:|:------:|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55" /> |
