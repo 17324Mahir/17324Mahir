@@ -1,93 +1,69 @@
-<!-- ───────────────────────────── HEADER ───────────────────────────── -->
+<!-- ====== HEADER / HERO ====== -->
+<div align="center">
+  <!-- Optional snake (enable workflow first; see note at bottom) -->
+  <!--
+  <img alt="snake" src="https://raw.githubusercontent.com/17324Mahir/17324Mahir/output/github-contribution-grid-snake-dark.svg" />
+  -->
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=34&center=true&vCenter=true&width=720&height=70&duration=3500&pause=600&color=14b8a6&lines=Hi+There!+👋;I'm+Mahir;CSE+Student+at+AIUB;ML+%26+AI+Researcher" />
+</h1>
+
+<h3 align="center">CSE @ AIUB • Researching Machine Learning & Artificial Intelligence • Clean-code enjoyer</h3>
+
+<br/>
+
+<!-- ====== CONTACT + VIEWS ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&center=true&vCenter=true&width=920&lines=Hi%2C+I'm+Mahir+%F0%9F%91%8B;CSE+Student+at+AIUB;Machine+Learning+Researcher;Passionate+About+AI+and+Clean+Code" alt="Typing animation header" />
+  <img src="https://komarev.com/ghpvc/?username=17324Mahir&style=flat&label=Profile+Views" alt="views" />
+  <a href="mailto:mahirtajwar154@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-14b8a6" alt="email" />
+  </a>
+  <a href="https://codeforces.com/profile/Zero_Tw2">
+    <img src="https://img.shields.io/badge/Codeforces-Zero__Tw2-0ea5e9" alt="Codeforces" />
+  </a>
 </p>
 
-<!-- Static fallback banner (shows even if typing SVG hiccups) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0ea5e9,100:22c55e&text=Mahir%20%40%20AIUB&fontColor=ffffff&fontSize=36&fontAlignY=45" alt="Mahir @ AIUB banner" />
-</p>
-
-<!-- ───────────────────────── CONTACT + VIEWS ───────────────────────── -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=17324Mahir&style=flat&label=Profile%20Views" alt="views" />
-  <a href="mailto:mahirtajwar154@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0ea5e9" alt="email" /></a>
-  <a href="https://codeforces.com/profile/Zero_Tw2"><img src="https://img.shields.io/badge/Codeforces-Zero__Tw2-22c55e" alt="Codeforces" /></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-%20-%23ffffff00?style=for-the-badge&logoWidth=0&labelColor=0ea5e9" width="0" height="6">
-</p>
-
----
-
-## 👨‍🎓 About Me
-- 🎓 **CSE student** at **American International University–Bangladesh (AIUB)**  
-- 🔬 Doing **research integrating Machine Learning with Artificial Intelligence**  
-- 💡 Enthusiastic about problem-solving, software design, and clean code  
-- 🧰 Skilled in `Python`, `C++`, `Java`, and `C#`  
-- 🚀 Constantly learning and experimenting with new technologies  
+<!-- ====== ABOUT ====== -->
+## About Me
+- 🎓 **CSE student** at **American International University–Bangladesh (AIUB)**
+- 🔬 **Currently researching** the integration of **Machine Learning** & **AI**
+- 🧠 Interested in **algorithms**, **problem solving**, and **clean, reproducible code**
 - 📫 Reach me: **mahirtajwar154@gmail.com**
 
----
+<br/>
 
-## 🧠 Research & Interests
-`Artificial Intelligence` · `Machine Learning` · `Computer Vision`  
-`Algorithms` · `Data Structures` · `Software Engineering`
+<!-- ====== LANGUAGES ====== -->
+## Languages
+| Python | C++ | Java | C# |
+|:-----:|:---:|:----:|:--:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="55" height="55" /> |
 
----
+<!-- ====== TOOLS (optional, light) ====== -->
+## Tools (light)
+| Git | Linux | VS Code |
+|:--:|:-----:|:------:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="55" height="55" /> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="55" height="55" /> |
 
-## 🧰 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/C/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-512BD4?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-000000?logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/IDE-Code::Blocks-3C873A?logo=data:image/svg+xml;base64,PHN2Zy8+" />
-</p>
+<br/>
 
----
-
-## 📊 GitHub Overview
+<!-- ====== STATS ====== -->
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=17324Mahir&show_icons=true&hide_title=true&rank_icon=percentile&theme=transparent"
-    height="160"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=17324Mahir&layout=compact&card_width=320&theme=transparent"
-    height="160"
-    alt="Top languages"
-  />
+  <img width="600" height="200" alt="stats"
+       src="https://github-readme-stats.vercel.app/api?username=17324Mahir&show_icons=true&title_color=14b8a6&icon_color=0ea5e9&text_color=ffffff&bg_color=0a0a0a&hide_border=true" />
+  <img width="400" height="200" alt="top-langs"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=17324Mahir&layout=compact&title_color=14b8a6&text_color=ffffff&bg_color=0a0a0a&icon_color=0ea5e9&hide_border=true" />
 </p>
 
-<!-- Streak: mirror endpoint with cache-buster -->
+<!-- Optional streak (mirror host for reliability) -->
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=17324Mahir&theme=transparent&date_format=j%20M%5B%20Y%5D&v=1"
-    height="150"
-    alt="GitHub streak"
-  />
+  <img height="200" alt="streak"
+       src="https://github-readme-streak-stats-eight.vercel.app/?user=17324Mahir&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 </p>
 
----
+<!-- ====== CURRENT FOCUS ====== -->
+## Current Focus
+- 🧩 **AI + ML** experiments and small, reproducible codebases  
+- 🧮 Competitive programming on **Codeforces** → [Zero_Tw2](https://codeforces.com/profile/Zero_Tw2)
 
-## 🔬 Current Focus
-- 🧩 Researching **AI–ML integration** and intelligent systems  
-- 💻 Developing reproducible research code in **Python** and **C++**  
-- 🧮 Active on **Codeforces** → [Zero_Tw2](https://codeforces.com/profile/Zero_Tw2)
-
----
-
-<!-- Optional contribution snake (enable workflow later) -->
-<!--
-![snake animation](https://raw.githubusercontent.com/17324Mahir/17324Mahir/output/snake.svg)
--->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0ea5e9,100:22c55e" />
-</p>
