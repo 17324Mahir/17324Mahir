@@ -1,10 +1,10 @@
 <!-- ====== HEADER / HERO ====== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&center=true&vCenter=true&width=920&lines=Hi%2C+I+am+Mahir+%F0%9F%91%8B;CSE+Student+at+AIUB;Machine+Learning+Researcher;Passionate+About+AI+and+Clean+Code" alt="Typing animation header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=32&duration=2500&pause=700&center=true&vCenter=true&width=920&lines=Hi%2C+I+am+Mahir+%F0%9F%91%8B;CSE+Student+at+AIUB;Machine+Learning+Researcher;Passionate+About+AI!!!!" alt="Typing animation header" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0ea5e9,100:22c55e&text=Mahir%20%40%20AIUB&fontColor=ffffff&fontSize=36&fontAlignY=45" alt="Mahir @ AIUB banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:0ea5e9,100:22c55e&text=Mahir%20%40%20AIUB&fontColor=ffffff&fontSize=36&fontAlignY=45" alt="banner" />
 </p>
 
 <h3 align="center">CSE @ AIUB • Researching Machine Learning & Artificial Intelligence • Clean-code enjoyer</h3>
