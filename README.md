@@ -5,7 +5,10 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=000000&text=Mahir%20%40%20AIUB&fontColor=ffffff&fontSize=36&fontAlignY=45" alt="banner" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&section=header&height=140&color=000000&text=Mahir%20%40%20AIUB&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=32&v=2"
+    alt="Mahir @ AIUB banner"
+  />
 </p>
 
 <h3 align="center" style="color:#ffffff;">CSE @ AIUB • Researching Machine Learning & Artificial Intelligence • Clean-code enjoyer</h3>
