@@ -7,7 +7,7 @@
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&section=header&height=140&color=000000&text=Mahir%20%40%20AIUB&fontColor=ffffff&fontSize=38&fontAlign=50&fontAlignY=32&v=2"
-    alt="Mahir @ AIUB banner"
+    alt="Mahir banner"
   />
 </p>
 
