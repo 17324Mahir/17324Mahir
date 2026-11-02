@@ -1,271 +1,191 @@
 
-<!-- ======================================================= -->
-<!--                  MAHIR TAJWAR MAHI                       -->
-<!--                GITHUB PROFILE README                    -->
-<!--              Theme: Midnight Black + Teal               -->
-<!-- ======================================================= -->
+<!-- MAHIR TAJWAR MAHI | GITHUB PROFILE README -->
 
-<!-- ANIMATED HERO BANNER -->
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mahir Tajwar Mahi</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:115e59,100:0d9488&height=230&section=header&text=Mahir%20Tajwar%20Mahi&fontSize=43&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=60&descSize=19&descColor=ccfbf1" />
-
-<!-- TYPING ANIMATION -->
-<a href="https://github.com/17324Mahir">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&lines=Computer+Science+Student+%40+AIUB;Exploring+AI+%26+Machine+Learning;Building+Full-Stack+Applications;Competitive+Programming+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- SOCIAL & PROFILE BADGES -->
-<a href="https://github.com/17324Mahir">
-  <img src="https://img.shields.io/badge/GitHub-17324Mahir-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:mahirtajwar154@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://codeforces.com/profile/Zero_Tw2">
-  <img src="https://img.shields.io/badge/Codeforces-Zero__Tw2-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=17324Mahir&label=Profile%20Views&color=14B8A6&style=flat-square" alt="Profile views" />
-
-</div>
-
-<br/>
-
-<!-- ABOUT ME -->
-<h2 align="center">👨‍💻 About Me</h2>
+<h3 align="center">
+  Software Developer | CSE @ AIUB | AI & ML Enthusiast
+</h3>
 
 <p align="center">
-  <em>
-    Computer Science student, aspiring researcher, and software developer
-    passionate about building meaningful technology.
-  </em>
+  Building useful software, exploring machine learning,
+  and solving challenging problems.
 </p>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎓 Education & Interests
-
-- 🎓 **CSE Student** at **AIUB**
-- 🔬 Exploring **AI & Machine Learning**
-- 🧠 Interested in **Responsible AI**
-- 📊 Passionate about **Data Science**
-- 🧮 Enjoy **Algorithms & Problem Solving**
-
-</td>
-<td width="50%">
-
-### 🚀 Development & Goals
-
-- 💻 Building **Full-Stack Applications**
-- ⚡ Exploring **Backend Architecture**
-- 🛠️ Working with **Modern Frameworks**
-- 📚 Learning through research and projects
-- 🎯 Focused on **Software Engineering & AI**
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- TECHNOLOGY STACK -->
-<h2 align="center">🛠️ Technology Stack</h2>
-
-<div align="center">
-
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,cs,js,ts,dart&theme=dark" alt="Programming languages" />
-
-<br/>
-
-### 🌐 Frameworks & Development
-
-<img src="https://skillicons.dev/icons?i=dotnet,nestjs,nodejs,express,react,nextjs,flutter&theme=dark" alt="Frameworks" />
-
-<br/>
-
-### 🗄️ Databases & Development Tools
-
-<img src="https://skillicons.dev/icons?i=postgres,prisma,mysql,docker,git,github,linux,vscode,postman&theme=dark" alt="Databases and tools" />
-
-</div>
-
-<br/>
-
-<!-- FEATURED PROJECTS -->
-<h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
-  A selection of my work in research, full-stack development,
-  and software engineering.
+  <a href="https://github.com/17324Mahir">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/mahir-tajwar-mahi-444a9828b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mahirtajwar154@gmail.com">
+    <img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://codeforces.com/profile/Zero_Tw2">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 📊 Electricity Demand Forecasting
+## 👨‍💻 About Me
 
-**Machine Learning · Research · Forecasting**
+I'm a final-year **Computer Science and Engineering** student at **American International University-Bangladesh (AIUB)**, majoring in Software Engineering.
 
-Research on next-day electricity demand forecasting in Bangladesh, including:
+I enjoy designing full-stack applications, working with databases, and exploring Artificial Intelligence and Machine Learning through practical research.
 
-- Data auditing and preprocessing
-- ML and deep learning experiments
-- Adaptive conformal calibration
-- Forecasting uncertainty evaluation
+- 🎓 **Education:** B.Sc. in CSE, AIUB
+- 💻 **Development:** Full-Stack & Backend Engineering
+- 🔬 **Research:** Machine Learning, AI, Data Science
+- 🧠 **Interests:** Algorithms, Responsible AI, Software Architecture
+- 🏆 **Programming:** Codeforces, LeetCode, VJudge
+- 🚀 **Career:** Open to software engineering internships and collaborations
 
-<a href="https://github.com/17324Mahir/bangladesh-load-forecasting">
-  <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+---
 
-</td>
-<td width="50%" valign="top">
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42" alt="PHP" />
+</p>
+
+### Frameworks & Technologies
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt=".NET" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42" alt="Express" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS" />
+</p>
+
+### Databases & Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" alt="SQL Server" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" height="42" alt="Postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Auditable Electricity Demand Forecasting
+
+**Machine Learning | Forecasting | Research**
+
+Research on next-day electricity demand forecasting in Bangladesh.
+
+- Data auditing and preparation
+- Machine learning and deep learning experiments
+- Uncertainty estimation and conformal calibration
+- Robustness and model evaluation
+
+**[View Research Repository](https://github.com/17324Mahir/bangladesh-load-forecasting)**
 
 ### 🚗 Dhaka Tesla Pool
 
-**Next.js · TypeScript · PostgreSQL**
+**Next.js | TypeScript | Express | PostgreSQL | Prisma**
 
-A full-stack ride-pooling prototype featuring:
+A full-stack ride-pooling application prototype.
 
-- JWT-based authentication
-- Passenger and driver dashboards
-- Smart passenger-pool matching
-- Fare calculation and ride tracking
+- Passenger and driver authentication
+- Capacity-aware matching
+- Fare management and ride histories
+- REST APIs and Docker deployment
 
-<a href="https://github.com/17324Mahir/dhaka-tesla-pool">
-  <img src="https://img.shields.io/badge/Source_Code-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**[Source Code](https://github.com/17324Mahir/dhaka-tesla-pool)** · **[Live Demo](https://dhaka-tesla-pool-three.vercel.app)**
 
-<a href="https://dhaka-tesla-pool-three.vercel.app">
-  <img src="https://img.shields.io/badge/Live_Demo-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+### 🏥 Hospital Management System
 
-</td>
-</tr>
+**PHP | MySQL | MVC | JavaScript**
 
-<tr>
-<td width="50%" valign="top">
+An academic team project supporting hospital workflows.
+
+- Admin, doctor, patient and receptionist roles
+- Appointment and consultation management
+- Relational database operations
+- Role-based access
+
+**[View Repository](https://github.com/17324Mahir/Hospital-management)**
 
 ### 🚙 Vehicle Management System
 
-**Flutter Web · Material 3 · Dart**
+**Flutter Web | Dart | Material 3**
 
-A responsive fleet-management frontend with:
+A responsive fleet-administration frontend.
 
+- Fleet overview dashboards
 - Vehicle registration and management
-- Fleet dashboards and statistics
-- Search, filtering, and validation
-- Responsive administrative interface
+- Search and filtering
+- Responsive interface
 
-<a href="https://github.com/17324Mahir/Stark_Group_VMS">
-  <img src="https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+**[View Repository](https://github.com/17324Mahir/Stark_Group_VMS)**
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🧮 Competitive Programming
+## 🔬 Research Interests
 
-**C++ · Algorithms · Data Structures**
+| Field | Interests |
+|---|---|
+| 🤖 Artificial Intelligence | Reliable and responsible systems |
+| 🧠 Machine Learning | Prediction and model evaluation |
+| 📊 Data Science | Applied analytics and forecasting |
+| ⚙️ Software Engineering | Scalable backend and web applications |
+| 🔐 Software Quality | Testing, reliability and maintainability |
 
-Practicing computational problem-solving through:
+---
 
-- Algorithm design
-- Data structures
-- Optimization techniques
-- Competitive programming challenges
+## 🏆 Competitive Programming
 
-<a href="https://github.com/17324Mahir/Leetcode">
-  <img src="https://img.shields.io/badge/LeetCode_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+I enjoy solving algorithmic challenges and improving my problem-solving skills.
 
-</td>
-</tr>
-</table>
+- **150+ problems solved** across coding platforms
+- Participant, **8th AIUB Inter-University Programming Contest (2024)**
 
-<br/>
+**[Codeforces](https://codeforces.com/profile/Zero_Tw2)** · **[LeetCode Repository](https://github.com/17324Mahir/Leetcode)**
 
-<!-- CURRENT FOCUS -->
-<h2 align="center">🎯 Current Focus</h2>
+---
 
-<div align="center">
+## 📈 GitHub Activity
 
-| Area | What I'm Exploring |
-|:---:|:---|
-| 🤖 **Artificial Intelligence** | Reliable and responsible AI systems |
-| 🧠 **Machine Learning** | Predictive modeling and evaluation |
-| ⚙️ **Software Engineering** | Full-stack and backend development |
-| 📊 **Research** | Data-driven experimentation |
-| 🧩 **Problem Solving** | Algorithms and competitive programming |
+My public repositories, contributions, and activity are available directly on my GitHub profile.
 
-</div>
+**[Explore My GitHub Activity](https://github.com/17324Mahir)**
 
-<br/>
+---
 
-<!-- GITHUB STATS -->
-<h2 align="center">📈 GitHub Analytics</h2>
+## 🤝 Let's Connect
 
-<div align="center">
+I'm interested in opportunities involving full-stack development, software engineering, AI/ML research, and collaborative projects.
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=17324Mahir&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=14B8A6&icon_color=14B8A6&text_color=E5E7EB&include_all_commits=true" alt="GitHub stats" />
+**Email:** [mahirtajwar154@gmail.com](mailto:mahirtajwar154@gmail.com)
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=17324Mahir&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=14B8A6&text_color=E5E7EB&langs_count=8" alt="Top languages" />
+**LinkedIn:** [Mahir Tajwar Mahi](https://linkedin.com/in/mahir-tajwar-mahi-444a9828b)
 
-<br/><br/>
+**GitHub:** [@17324Mahir](https://github.com/17324Mahir)
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=17324Mahir&theme=github-dark-blue&hide_border=true&background=0D1117&ring=14B8A6&fire=0EA5E9&currStreakLabel=14B8A6&sideLabels=E5E7EB" alt="GitHub streak" />
-
-</div>
-
-<br/>
-
-<!-- CONTRIBUTION ACTIVITY -->
-<h2 align="center">📊 Contribution Activity</h2>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=17324Mahir&bg_color=0D1117&color=14B8A6&line=14B8A6&point=FFFFFF&area=true&area_color=115E59&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
-
-</div>
-
-<br/>
-
-<!-- CONNECT -->
-<h2 align="center">🤝 Connect With Me</h2>
+---
 
 <p align="center">
-  I'm interested in software engineering, artificial intelligence,
-  research collaborations, and meaningful open-source projects.
+  <b>Learn. Build. Research. Improve.</b>
 </p>
 
-<div align="center">
-
-<a href="mailto:mahirtajwar154@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_Connect-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://github.com/17324Mahir?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore_My_Repositories-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<br/>
-
-<!-- FOOTER -->
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:115e59,100:0d9488&height=110&section=footer" />
-
-<sub>Made with ❤️ and curiosity by Mahir Tajwar Mahi</sub>
-
-</div>
+<p align="center">
+  <sub>Made with ❤️ by Mahir Tajwar Mahi</sub>
+</p>
