@@ -1,191 +1,170 @@
+<div align="center">
 
-<!-- MAHIR TAJWAR MAHI | GITHUB PROFILE README -->
+# Mahir Tajwar Mahi
 
-<h1 align="center">Hi 👋, I'm Mahir Tajwar Mahi</h1>
+### Software Engineering Student | Full-Stack Developer | AI & ML Research
 
-<h3 align="center">
-  Software Developer | CSE @ AIUB | AI & ML Enthusiast
-</h3>
+**Computer Science & Engineering · American International University-Bangladesh**
 
-<p align="center">
-  Building useful software, exploring machine learning,
-  and solving challenging problems.
-</p>
+Building reliable software, exploring intelligent systems, and solving real-world problems through technology.
 
-<p align="center">
-  <a href="https://github.com/17324Mahir">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/mahir-tajwar-mahi-444a9828b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mahirtajwar154@gmail.com">
-    <img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://codeforces.com/profile/Zero_Tw2">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-</p>
+[LinkedIn](https://linkedin.com/in/mahir-tajwar-mahi-444a9828b) · [GitHub](https://github.com/17324Mahir) · [Codeforces](https://codeforces.com/profile/Zero_Tw2) · [Email](mailto:mahirtajwar154@gmail.com)
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a final-year **Computer Science and Engineering** student at **American International University-Bangladesh (AIUB)**, majoring in Software Engineering.
+I am a final-year **Computer Science and Engineering** student at **American International University-Bangladesh (AIUB)**, majoring in Software Engineering.
 
-I enjoy designing full-stack applications, working with databases, and exploring Artificial Intelligence and Machine Learning through practical research.
+My interests lie at the intersection of **software development, artificial intelligence, and applied machine learning**. I enjoy designing backend systems, building full-stack applications, working with relational databases, and conducting data-driven research.
 
-- 🎓 **Education:** B.Sc. in CSE, AIUB
-- 💻 **Development:** Full-Stack & Backend Engineering
-- 🔬 **Research:** Machine Learning, AI, Data Science
-- 🧠 **Interests:** Algorithms, Responsible AI, Software Architecture
-- 🏆 **Programming:** Codeforces, LeetCode, VJudge
-- 🚀 **Career:** Open to software engineering internships and collaborations
+I value clean architecture, maintainable code, structured problem-solving, and continuous learning.
 
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="42" height="42" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" height="42" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" height="42" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="42" height="42" alt="PHP" />
-</p>
-
-### Frameworks & Technologies
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="42" height="42" alt=".NET" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="42" height="42" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="42" height="42" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="42" height="42" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="42" height="42" alt="NestJS" />
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="42" height="42" alt="SQL Server" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42" height="42" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="42" height="42" alt="Postman" />
-</p>
+**Current interests:**
+- Full-stack development and backend engineering
+- Machine learning, data science, and responsible AI
+- Software architecture, APIs, and database systems
+- Algorithms, data structures, and competitive programming
 
 ---
 
-## 🚀 Featured Projects
+## Technical Skills
 
-### 📊 Auditable Electricity Demand Forecasting
-
-**Machine Learning | Forecasting | Research**
-
-Research on next-day electricity demand forecasting in Bangladesh.
-
-- Data auditing and preparation
-- Machine learning and deep learning experiments
-- Uncertainty estimation and conformal calibration
-- Robustness and model evaluation
-
-**[View Research Repository](https://github.com/17324Mahir/bangladesh-load-forecasting)**
-
-### 🚗 Dhaka Tesla Pool
-
-**Next.js | TypeScript | Express | PostgreSQL | Prisma**
-
-A full-stack ride-pooling application prototype.
-
-- Passenger and driver authentication
-- Capacity-aware matching
-- Fare management and ride histories
-- REST APIs and Docker deployment
-
-**[Source Code](https://github.com/17324Mahir/dhaka-tesla-pool)** · **[Live Demo](https://dhaka-tesla-pool-three.vercel.app)**
-
-### 🏥 Hospital Management System
-
-**PHP | MySQL | MVC | JavaScript**
-
-An academic team project supporting hospital workflows.
-
-- Admin, doctor, patient and receptionist roles
-- Appointment and consultation management
-- Relational database operations
-- Role-based access
-
-**[View Repository](https://github.com/17324Mahir/Hospital-management)**
-
-### 🚙 Vehicle Management System
-
-**Flutter Web | Dart | Material 3**
-
-A responsive fleet-administration frontend.
-
-- Fleet overview dashboards
-- Vehicle registration and management
-- Search and filtering
-- Responsive interface
-
-**[View Repository](https://github.com/17324Mahir/Stark_Group_VMS)**
-
----
-
-## 🔬 Research Interests
-
-| Field | Interests |
+| Category | Technologies |
 |---|---|
-| 🤖 Artificial Intelligence | Reliable and responsible systems |
-| 🧠 Machine Learning | Prediction and model evaluation |
-| 📊 Data Science | Applied analytics and forecasting |
-| ⚙️ Software Engineering | Scalable backend and web applications |
-| 🔐 Software Quality | Testing, reliability and maintainability |
+| **Programming Languages** | C#, Python, C++, Java, JavaScript, TypeScript, PHP, SQL |
+| **Backend Development** | .NET, ASP.NET Core MVC, Node.js, Express.js, REST APIs |
+| **Frontend Development** | React, Next.js, HTML5, CSS3 |
+| **Databases & ORM** | SQL Server, PostgreSQL, MySQL, Prisma |
+| **Development Tools** | Git, GitHub, Docker, Docker Compose, Postman, VS Code |
+| **Core Concepts** | OOP, Data Structures, Algorithms, MVC, Relational Database Design, Testing |
 
 ---
 
-## 🏆 Competitive Programming
+## Featured Projects
 
-I enjoy solving algorithmic challenges and improving my problem-solving skills.
+### 01. Auditable Electricity Demand Forecasting in Bangladesh
 
-- **150+ problems solved** across coding platforms
-- Participant, **8th AIUB Inter-University Programming Contest (2024)**
+**Research · Machine Learning · Time-Series Forecasting**
 
-**[Codeforces](https://codeforces.com/profile/Zero_Tw2)** · **[LeetCode Repository](https://github.com/17324Mahir/Leetcode)**
+A research-oriented project investigating reliable next-day electricity demand forecasting for Bangladesh.
+
+**Highlights**
+- Data auditing, preprocessing, and quality assessment
+- Machine learning and deep learning forecasting experiments
+- Adaptive conformal calibration for prediction uncertainty
+- Statistical evaluation, robustness analysis, and model comparison
+
+[View Research Repository](https://github.com/17324Mahir/bangladesh-load-forecasting)
+
+### 02. Dhaka Tesla Pool
+
+**Full-Stack Development · Next.js · TypeScript · PostgreSQL**
+
+A full-stack ride-pooling prototype designed around passenger matching, trip management, and transactional consistency.
+
+**Highlights**
+- JWT authentication and role-based passenger/driver access
+- Capacity-aware ride matching and automated fare calculation
+- Transaction-safe database operations using Prisma and PostgreSQL
+- RESTful backend architecture and containerized deployment
+- Automated backend testing for business logic and validation
+
+[Source Code](https://github.com/17324Mahir/dhaka-tesla-pool) · [Live Application](https://dhaka-tesla-pool-three.vercel.app)
+
+### 03. Hospital Management System
+
+**Academic Team Project · PHP · MySQL · MVC**
+
+A database-driven hospital management application supporting multiple operational roles.
+
+**Highlights**
+- Admin, doctor, patient, and receptionist workflows
+- Appointment, billing, and consultation management
+- Relational database design and parameterized queries
+- Role-based access and session management
+
+[View Repository](https://github.com/17324Mahir/Hospital-management)
+
+### 04. Stark Group Vehicle Management System
+
+**Flutter Web · Dart · Material 3**
+
+A responsive fleet-management frontend designed for vehicle administration and maintenance monitoring.
+
+**Highlights**
+- Fleet dashboard and operational statistics
+- Vehicle registration, editing, and management
+- Search, filtering, and form validation
+- Responsive administrative interface
+
+[View Repository](https://github.com/17324Mahir/Stark_Group_VMS)
 
 ---
 
-## 📈 GitHub Activity
+## Research Interests
 
-My public repositories, contributions, and activity are available directly on my GitHub profile.
+I am interested in developing reliable and practical intelligent systems, particularly where machine learning can support real-world decision-making.
 
-**[Explore My GitHub Activity](https://github.com/17324Mahir)**
+| Research Area | Focus |
+|---|---|
+| **Machine Learning** | Predictive modeling, evaluation, generalization |
+| **Responsible AI** | Reliability, uncertainty estimation, trustworthy systems |
+| **Data Science** | Data quality, applied analytics, time-series forecasting |
+| **Software Engineering** | Reliable systems, scalable applications, software quality |
 
 ---
 
-## 🤝 Let's Connect
+## Academic & Technical Activities
 
-I'm interested in opportunities involving full-stack development, software engineering, AI/ML research, and collaborative projects.
+- **Research Presentation:** Presented *DrainGuard BD*, a flood-susceptibility analysis project, at AIUB Sustainable Futures 2026.
+- **Competitive Programming:** Solved 150+ programming problems across Codeforces, VJudge, and LeetCode.
+- **Programming Contest:** Participated in the 8th AIUB Inter-University Programming Contest (2024).
+- **Continuous Development:** Building practical experience through academic coursework, independent projects, and technical research.
+
+---
+
+## Currently Exploring
+
+- Reliable machine learning and uncertainty-aware prediction
+- Backend system design and API development
+- Software architecture and design patterns
+- Applied research with reproducible experiments
+- Competitive programming and algorithm optimization
+
+---
+
+## Professional Interests
+
+I am interested in opportunities involving:
+
+- Software Engineering Internships
+- Full-Stack and Backend Development
+- AI/ML Research Collaboration
+- Open-Source Software Development
+
+I welcome opportunities to contribute, collaborate, and learn from experienced developers and researchers.
+
+---
+
+## Get in Touch
 
 **Email:** [mahirtajwar154@gmail.com](mailto:mahirtajwar154@gmail.com)
 
 **LinkedIn:** [Mahir Tajwar Mahi](https://linkedin.com/in/mahir-tajwar-mahi-444a9828b)
 
-**GitHub:** [@17324Mahir](https://github.com/17324Mahir)
+**GitHub:** [github.com/17324Mahir](https://github.com/17324Mahir)
+
+**Codeforces:** [Zero_Tw2](https://codeforces.com/profile/Zero_Tw2)
 
 ---
 
-<p align="center">
-  <b>Learn. Build. Research. Improve.</b>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>Made with ❤️ by Mahir Tajwar Mahi</sub>
-</p>
+**Building with purpose. Learning continuously. Exploring what comes next.**
+
+<sub>© Mahir Tajwar Mahi</sub>
+
+</div>
