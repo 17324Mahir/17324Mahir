@@ -1,170 +1,89 @@
+
 <div align="center">
 
-# Mahir Tajwar Mahi
+# Hey, I'm Mahir! 👋
 
-### Software Engineering Student | Full-Stack Developer | AI & ML Research
+### Software Developer • AI/ML Enthusiast • CSE @ AIUB
 
-**Computer Science & Engineering · American International University-Bangladesh**
+*Building intelligent solutions, one line of code at a time.*
 
-Building reliable software, exploring intelligent systems, and solving real-world problems through technology.
-
-[LinkedIn](https://linkedin.com/in/mahir-tajwar-mahi-444a9828b) · [GitHub](https://github.com/17324Mahir) · [Codeforces](https://codeforces.com/profile/Zero_Tw2) · [Email](mailto:mahirtajwar154@gmail.com)
+<a href="https://github.com/17324Mahir">
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/mahir-tajwar-mahi-444a9828b">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:mahirtajwar154@gmail.com">
+  <img src="https://img.shields.io/badge/Email-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://codeforces.com/profile/Zero_Tw2">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+### 👨‍💻 A Little About Me
 
-I am a final-year **Computer Science and Engineering** student at **American International University-Bangladesh (AIUB)**, majoring in Software Engineering.
-
-My interests lie at the intersection of **software development, artificial intelligence, and applied machine learning**. I enjoy designing backend systems, building full-stack applications, working with relational databases, and conducting data-driven research.
-
-I value clean architecture, maintainable code, structured problem-solving, and continuous learning.
-
-**Current interests:**
-- Full-stack development and backend engineering
-- Machine learning, data science, and responsible AI
-- Software architecture, APIs, and database systems
-- Algorithms, data structures, and competitive programming
+- 🎓 Final-year **CSE student at AIUB**, majoring in Software Engineering
+- 💻 Building **full-stack applications and backend systems**
+- 🔬 Exploring **Machine Learning, Data Science & Responsible AI**
+- 🧩 Passionate about **problem-solving and clean code**
 
 ---
 
-## Technical Skills
+### ⚡ Tech Arsenal
 
-| Category | Technologies |
-|---|---|
-| **Programming Languages** | C#, Python, C++, Java, JavaScript, TypeScript, PHP, SQL |
-| **Backend Development** | .NET, ASP.NET Core MVC, Node.js, Express.js, REST APIs |
-| **Frontend Development** | React, Next.js, HTML5, CSS3 |
-| **Databases & ORM** | SQL Server, PostgreSQL, MySQL, Prisma |
-| **Development Tools** | Git, GitHub, Docker, Docker Compose, Postman, VS Code |
-| **Core Concepts** | OOP, Data Structures, Algorithms, MVC, Relational Database Design, Testing |
+<div align="center">
 
----
+**Languages**
 
-## Featured Projects
+<img src="https://skillicons.dev/icons?i=python,cpp,cs,java,js,ts,php&theme=dark" alt="Languages" />
 
-### 01. Auditable Electricity Demand Forecasting in Bangladesh
+**Frameworks & Development**
 
-**Research · Machine Learning · Time-Series Forecasting**
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,react,nextjs,nestjs&theme=dark" alt="Frameworks" />
 
-A research-oriented project investigating reliable next-day electricity demand forecasting for Bangladesh.
+**Databases & Tools**
 
-**Highlights**
-- Data auditing, preprocessing, and quality assessment
-- Machine learning and deep learning forecasting experiments
-- Adaptive conformal calibration for prediction uncertainty
-- Statistical evaluation, robustness analysis, and model comparison
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,vscode,postman&theme=dark" alt="Tools" />
 
-[View Research Repository](https://github.com/17324Mahir/bangladesh-load-forecasting)
-
-### 02. Dhaka Tesla Pool
-
-**Full-Stack Development · Next.js · TypeScript · PostgreSQL**
-
-A full-stack ride-pooling prototype designed around passenger matching, trip management, and transactional consistency.
-
-**Highlights**
-- JWT authentication and role-based passenger/driver access
-- Capacity-aware ride matching and automated fare calculation
-- Transaction-safe database operations using Prisma and PostgreSQL
-- RESTful backend architecture and containerized deployment
-- Automated backend testing for business logic and validation
-
-[Source Code](https://github.com/17324Mahir/dhaka-tesla-pool) · [Live Application](https://dhaka-tesla-pool-three.vercel.app)
-
-### 03. Hospital Management System
-
-**Academic Team Project · PHP · MySQL · MVC**
-
-A database-driven hospital management application supporting multiple operational roles.
-
-**Highlights**
-- Admin, doctor, patient, and receptionist workflows
-- Appointment, billing, and consultation management
-- Relational database design and parameterized queries
-- Role-based access and session management
-
-[View Repository](https://github.com/17324Mahir/Hospital-management)
-
-### 04. Stark Group Vehicle Management System
-
-**Flutter Web · Dart · Material 3**
-
-A responsive fleet-management frontend designed for vehicle administration and maintenance monitoring.
-
-**Highlights**
-- Fleet dashboard and operational statistics
-- Vehicle registration, editing, and management
-- Search, filtering, and form validation
-- Responsive administrative interface
-
-[View Repository](https://github.com/17324Mahir/Stark_Group_VMS)
+</div>
 
 ---
 
-## Research Interests
+### 🚀 Things I've Built
 
-I am interested in developing reliable and practical intelligent systems, particularly where machine learning can support real-world decision-making.
-
-| Research Area | Focus |
-|---|---|
-| **Machine Learning** | Predictive modeling, evaluation, generalization |
-| **Responsible AI** | Reliability, uncertainty estimation, trustworthy systems |
-| **Data Science** | Data quality, applied analytics, time-series forecasting |
-| **Software Engineering** | Reliable systems, scalable applications, software quality |
+| 🔬 Research & AI | 💻 Software Development |
+|:---|:---|
+| **[Electricity Demand Forecasting](https://github.com/17324Mahir/bangladesh-load-forecasting)** | **[Dhaka Tesla Pool](https://github.com/17324Mahir/dhaka-tesla-pool)** |
+| Machine learning, forecasting & uncertainty estimation | Full-stack ride pooling with Next.js, Express & PostgreSQL |
+| **[DrainGuard BD](https://github.com/17324Mahir?tab=repositories)** | **[Hospital Management](https://github.com/17324Mahir/Hospital-management)** |
+| Flood-susceptibility analysis research | PHP, MySQL, MVC & role-based workflows |
 
 ---
 
-## Academic & Technical Activities
+### 🎯 Currently Exploring
 
-- **Research Presentation:** Presented *DrainGuard BD*, a flood-susceptibility analysis project, at AIUB Sustainable Futures 2026.
-- **Competitive Programming:** Solved 150+ programming problems across Codeforces, VJudge, and LeetCode.
-- **Programming Contest:** Participated in the 8th AIUB Inter-University Programming Contest (2024).
-- **Continuous Development:** Building practical experience through academic coursework, independent projects, and technical research.
+<div align="center">
 
----
+`Machine Learning` · `Responsible AI` · `Backend Engineering`
 
-## Currently Exploring
+`Software Architecture` · `Competitive Programming`
 
-- Reliable machine learning and uncertainty-aware prediction
-- Backend system design and API development
-- Software architecture and design patterns
-- Applied research with reproducible experiments
-- Competitive programming and algorithm optimization
-
----
-
-## Professional Interests
-
-I am interested in opportunities involving:
-
-- Software Engineering Internships
-- Full-Stack and Backend Development
-- AI/ML Research Collaboration
-- Open-Source Software Development
-
-I welcome opportunities to contribute, collaborate, and learn from experienced developers and researchers.
-
----
-
-## Get in Touch
-
-**Email:** [mahirtajwar154@gmail.com](mailto:mahirtajwar154@gmail.com)
-
-**LinkedIn:** [Mahir Tajwar Mahi](https://linkedin.com/in/mahir-tajwar-mahi-444a9828b)
-
-**GitHub:** [github.com/17324Mahir](https://github.com/17324Mahir)
-
-**Codeforces:** [Zero_Tw2](https://codeforces.com/profile/Zero_Tw2)
+</div>
 
 ---
 
 <div align="center">
 
-**Building with purpose. Learning continuously. Exploring what comes next.**
+### 🤝 Let's Build Something Meaningful
 
-<sub>© Mahir Tajwar Mahi</sub>
+Open to **software engineering opportunities, research collaborations & interesting projects.**
+
+[**Explore My Repositories**](https://github.com/17324Mahir?tab=repositories) · [**Get in Touch**](mailto:mahirtajwar154@gmail.com)
+
+<sub>✦ Keep Learning. Keep Building. ✦</sub>
 
 </div>
